@@ -24,7 +24,7 @@ Ingrese su contraseña
 
 Ingrese su direccion
 
-<input type="text" name="addres">
+<input type="text" name="address">
 
 <br>
  ingrese su telefono
